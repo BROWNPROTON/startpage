@@ -9,8 +9,7 @@
       url: https://bithublab.org/
     - title: Cask Search
       url: https://caskroom.github.io/search
-  
-- name: Projects
+- name: Development
   colour: cyan
   sections:
   - links:
