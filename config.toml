@@ -1,6 +1,6 @@
-baseURL = "https://example.org/"
-languageCode = "en-gb"
-title = "Start Page"
+baseURL = "https://brownproton.github.io"
+languageCode = "en-us"
+title = "brownproton.github.io"
 theme = "startpage"
 
 [params]
